@@ -1,5 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
+carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
+                      # Be sure to update the Carpentry type in _config.yml as well.  
+event_title:  "Data Carpentry for Social Sciences"     # optional: brief title of the event (e.g. "Data Carpentry - Geospatial Workshop")
 venue: "University of Florida Informatics Institute"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "432 Newell Dr, Gainesville, FL 32603"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
